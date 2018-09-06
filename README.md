@@ -17,5 +17,3 @@ In any CSS file:
   @include align-content(flex-start);
 }
 ```
-
-And so on.
