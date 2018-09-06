@@ -1,6 +1,6 @@
 {
   "name": "flexbox-mixin",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A bunch of SASS flexbox mixins from MDN. npm install, @import, and @include to use.",
   "main": "main.scss",
   "scripts": {
