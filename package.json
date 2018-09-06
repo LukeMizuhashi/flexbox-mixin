@@ -1,0 +1,19 @@
+{
+  "name": "flexbox-mixin",
+  "version": "0.0.0",
+  "description": "A bunch of SASS flexbox mixins from MDN. npm install, @import, and @include to use.",
+  "main": "main.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukeMizuhashi/flexbox-mixin.git"
+  },
+  "author": "Luke Mizuhashi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LukeMizuhashi/flexbox-mixin/issues"
+  },
+  "homepage": "https://github.com/LukeMizuhashi/flexbox-mixin#readme"
+}
